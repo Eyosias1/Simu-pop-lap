@@ -75,7 +75,7 @@ As you can see having these structure inside each rabbit is at first irrelevant 
 
 As we've seen in the introduction, to realize the instructions required we wrote some functions down. Our programme consists of 5 c files if we don’t count mt19937ar.c and one header file. In total we have 2 structures and 21 functions. But only 11 of them are important.
 
-We will see some of the functions we won't talk about later on. Such as creating a rabbit or simulating a population.
+We will see some of the functions we will talk about later on. Such as creating a rabbit or simulating a population.
 
 how do we create a rabbit ?
 
