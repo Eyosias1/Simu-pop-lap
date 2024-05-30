@@ -11,7 +11,7 @@ Woldemichael Eyosias
     1. [**Structure of rabbit**](#structure-of-rabbit)
     2. [**Structure of information**](#structure-of-information)
 3. [**Files and functions**](#files-and-functions)
-4. [**Finding the probability**](#finding-the-probablity)
+4. [**Finding the probability**](#finding-the-probability)
     1. [**Finding the probability of the number of litters**](#finding-the-probability-of-the-number-of-litters)
     2. [**Finding the probability of the number of Kittens**](#finding-the-probability-of-the-number-of-kittens)
 5. [**Rules of fertility**](#rules-of-fertility)
