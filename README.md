@@ -128,7 +128,7 @@ Rab_t_Oth_info*   StartRabbitSimu(int numberRabAtstart , int years)
 }
 ```
 
-# Finding the probability :
+# **Finding the probability**
 
 As we stated in the introduction, we will now show what decisions we took and how to find each probability because some of them were a bit vague.
 
