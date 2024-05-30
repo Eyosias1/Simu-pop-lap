@@ -6,18 +6,18 @@ Woldemichael Eyosias
 
 # Tables of contents:
 
-1. **Introduction**
-2. **Structure**
-    1. **Structure of rabbit**
-    2. **Structure of information**
-3. **Files and functions**
-4. **Finding the probability**
-    1. **Finding the probability of the number of litters**
-    2. **Finding the probability of the number of Kittens**
-5. **Rules of fertility**
-6. **Rules of survival**
-    1. **Graph with different survival rate occurrence**
-7. **Main function**
+1. [**Introduction**](#introduction)
+2. [**Structure**](#structure)
+    1. [**Structure of rabbit**](#structure-of-rabbit)
+    2. [**Structure of information**](#structure-of-information)
+3. [**Files and functions**](#files-and-functions)
+4. [**Finding probability**](#finding-probablity)
+    1. [**Finding the probability of the number of litters**](#finding-the-probability-of-the-number-of-litters)
+    2. [**Finding the probability of the number of Kittens**](#finding-the-probability-of-the-number-of-kittens)
+5. [**Rules of fertility**](#rules-of-fertility)
+6. [**Rules of survival**](#rules-of-survival)
+    1. [**Graph with different survival rate occurrence**](#graph-with-different-survival-rate-occurrence)
+7. [**Main function**](#main-function)
 
 # Introduction:
 
@@ -29,7 +29,9 @@ While giving birth we are told that there is a 15 % chance of the mother not sur
 
 Now that we know all the facts we will use all our notions we learned and functions we made in the past lab exercise to give an approximation of the population of rabbits in 20 years.
 
-# Structure of Rabbit:
+# Structure:
+
+## Structure of Rabbit:
 
 A rabbit should have these following informations at its initialization:
 
@@ -39,7 +41,7 @@ Our structure in c code looks like this:
 
 ![Untitled](photos/Untitled.png)
 
-# Structure of Information:
+## Structure of Information:
 
 To not complicate the structure of the rabbit or make it lighter and less time consuming we will only create one structure that gives common information like for example the number of rabbits alive, the number of female rabbits alive or dead …
 
